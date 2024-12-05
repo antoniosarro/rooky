@@ -1,0 +1,5 @@
+# Build outputs
+/outputs
+
+# Build binary
+rooky-*
